@@ -1,0 +1,469 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:28:5-30:43
+	android:value
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:30:9-40
+	android:name
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:29:9-54
+manifest
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Kaya\.gradle\caches\transforms-3\8561bac79f4cb7a6a3a58dbfacde1ace\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\33fa94f61bbed17bc192be634e1f03de\transformed\jetified-runtime-livedata-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigation:navigation-compose:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\c0196c2365346f72d4f4efafc55be641\transformed\jetified-navigation-compose-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.0.0-alpha14] C:\Users\Kaya\.gradle\caches\transforms-3\56f44afcdfe2f228d7736e5848f39a9f\transformed\jetified-material3-1.0.0-alpha14\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material3:material3-window-size-class:1.0.0-alpha14] C:\Users\Kaya\.gradle\caches\transforms-3\792b145a8070d52ccd01d283622078d5\transformed\jetified-material3-window-size-class-1.0.0-alpha14\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-compose:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\3f0db0869c2f3bcf465bf4b80ac84623\transformed\jetified-activity-compose-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\9cdbdc0d5f05d9008931cd3d0079e72a\transformed\jetified-lifecycle-viewmodel-compose-2.6.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\eea41e3c01527c5e61777842e99e33ab\transformed\jetified-material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d98190070bf35dc14f1f71a9b9ac5cd2\transformed\jetified-material-ripple-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\9bd704ab2575536667a3c027880be872\transformed\jetified-foundation-1.2.0-rc01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\8dd8bdfe09b3e3192d8c9ac6fc363091\transformed\jetified-animation-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\474f28b4459d131e32b9a244e7ef2f69\transformed\jetified-ui-tooling-data-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\3c3ecd19c507b63a814bf9444076d826\transformed\jetified-foundation-layout-1.2.0-rc01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\fedd73f5bc7da46e885737d5e3ff79a7\transformed\jetified-animation-core-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.0.2] C:\Users\Kaya\.gradle\caches\transforms-3\a9b0d29503e3ce79d095cef722150d85\transformed\jetified-material-icons-core-1.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\7240c5f142d201f8ad290379fabe11e8\transformed\jetified-ui-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\94b4789ada000076e835bff0f86adc77\transformed\navigation-runtime-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\69834dc9baba87039de48a383944c70f\transformed\navigation-runtime-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\74771d3f0aba66dd979eaacb3c921c04\transformed\jetified-activity-ktx-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\2e4f2367c317c4dd90cd3e4078197cb6\transformed\navigation-common-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\79624f8e642b1e226f4fa97854908be4\transformed\navigation-common-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\3e8eab1a5121275e5e2586c60e0b9f85\transformed\jetified-lifecycle-runtime-ktx-2.6.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\1c5dff662efc6e9979a74308ae5523dc\transformed\jetified-ui-tooling-preview-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\08cb83427369b524c0e4f42218ba7446\transformed\jetified-ui-text-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\7446fbe35ad6111aac7e051443b99b22\transformed\jetified-runtime-saveable-1.2.0-rc01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\2e49c104d2f3bec6e8db63b2592d2795\transformed\jetified-ui-graphics-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\aa5490bb54c3bb759e29434f2c9058fc\transformed\jetified-ui-unit-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\60ce9a9a6677a1b4a7f7cd2219aa5762\transformed\jetified-ui-geometry-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\61558e4fe1210c6292bf3f4bae0cdb99\transformed\jetified-runtime-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\a4a1a23f6457c7232211d5275827a777\transformed\jetified-lifecycle-viewmodel-ktx-2.6.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kaya\.gradle\caches\transforms-3\7aad6e37c42343dad604d683392d2cb6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Kaya\.gradle\caches\transforms-3\b6836f976a9af38fcee31654309ddd6a\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d1c2e2e8d076726ca6d7b4756cb03e4a\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\c45e5bef8bae8baeb65cc6065288e777\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kaya\.gradle\caches\transforms-3\426a8b46570e23cd94480b7253f1f9a4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\dc19cada02e1460aac2b83505919040b\transformed\jetified-activity-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\23e616f61efdbe830e06503c3bccefb2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\91eb7f9c16075393c6d9193b23bf5536\transformed\lifecycle-viewmodel-2.6.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\b4efd07a1f3ac79780859e9924039eb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-splashscreen:1.0.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\4ae46abfe8046e02ccce61f4c0b50714\transformed\jetified-core-splashscreen-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:maps-compose:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\ab9b1d679b06e6b26abc0ef856b57667\transformed\jetified-maps-compose-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\Kaya\.gradle\caches\transforms-3\17e889b4da11a436a04d5a1e5ff69a8d\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d52c0c6783e9c7379bf8ddde0bcb86b9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Kaya\.gradle\caches\transforms-3\d16ccdd789ecb9340b47c8d22c348e71\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\95d003f3d3af628c3142ee549dab69b4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d365f5572fc80ed09397813efcef9a44\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\12b737700b819fa61c95705a2ec8e629\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\367d45fc4e906fae8f32f7352a5aaf2f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\08c65cc10869d14a6665ac6cb5d958fc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\cc7ba6a95b0e134f4e50dabe358eae30\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0241aa321a70b3cdab5d75e3837de20a\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\b63b476dcff5f70675a8ce27f467f352\transformed\jetified-customview-poolingcontainer-1.0.0-rc01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\b394b42c4184c79bae8d55d52ec7e25e\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Kaya\.gradle\caches\transforms-3\6760e97130cfd72774a77ccbe1fb2d70\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\12ed52dc3c6f45ac44fc70a66f82c69d\transformed\lifecycle-runtime-2.6.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\39d4968b192749e612d27ed25d7767f2\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\6a6826f23095e5b2d7399a0a519be367\transformed\lifecycle-livedata-core-2.6.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\eb4e90f0e353832b9068e7d87748d06e\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\8d39c9d3accd09d52dd263aee43a05da\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\5603a41611ada80d0334acee06832a90\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\6dfef6b814ab7fad2d3eb35446decb32\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\5c683f1133d03ce71d42e70ddca65300\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\f610085d82be830424d14315cbeec1b5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\73c2fe21688619b7ccbc8efcbf79bec4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\bd63adc4c4b1c8b63755f47e962be09c\transformed\jetified-ui-util-1.3.0-alpha01\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\3630253cca316dd9882d7b7cfa407d02\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:11-49
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:6:3-76
+	android:name
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:6:20-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:7:3-78
+	android:name
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:7:20-76
+application
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:9:3-31:17
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kaya\.gradle\caches\transforms-3\7aad6e37c42343dad604d683392d2cb6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kaya\.gradle\caches\transforms-3\7aad6e37c42343dad604d683392d2cb6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d1c2e2e8d076726ca6d7b4756cb03e4a\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d1c2e2e8d076726ca6d7b4756cb03e4a\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\c45e5bef8bae8baeb65cc6065288e777\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\c45e5bef8bae8baeb65cc6065288e777\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\Kaya\.gradle\caches\transforms-3\17e889b4da11a436a04d5a1e5ff69a8d\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\Kaya\.gradle\caches\transforms-3\17e889b4da11a436a04d5a1e5ff69a8d\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Kaya\.gradle\caches\transforms-3\6760e97130cfd72774a77ccbe1fb2d70\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Kaya\.gradle\caches\transforms-3\6760e97130cfd72774a77ccbe1fb2d70\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\5603a41611ada80d0334acee06832a90\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\5603a41611ada80d0334acee06832a90\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\6dfef6b814ab7fad2d3eb35446decb32\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\6dfef6b814ab7fad2d3eb35446decb32\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Kaya\.gradle\caches\transforms-3\6760e97130cfd72774a77ccbe1fb2d70\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:14:7-33
+	android:label
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:12:7-39
+	tools:ignore
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:15:7-46
+	android:roundIcon
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:13:7-52
+	android:icon
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:10:7-34
+activity#com.android.composegeomarker.presentation.activities.MainActivity
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:17:5-26:16
+	android:exported
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:19:9-32
+	android:theme
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:18:9-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Kaya\.gradle\caches\transforms-3\8561bac79f4cb7a6a3a58dbfacde1ace\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Kaya\.gradle\caches\transforms-3\8561bac79f4cb7a6a3a58dbfacde1ace\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-livedata:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\33fa94f61bbed17bc192be634e1f03de\transformed\jetified-runtime-livedata-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-livedata:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\33fa94f61bbed17bc192be634e1f03de\transformed\jetified-runtime-livedata-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigation:navigation-compose:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\c0196c2365346f72d4f4efafc55be641\transformed\jetified-navigation-compose-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\c0196c2365346f72d4f4efafc55be641\transformed\jetified-navigation-compose-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.0.0-alpha14] C:\Users\Kaya\.gradle\caches\transforms-3\56f44afcdfe2f228d7736e5848f39a9f\transformed\jetified-material3-1.0.0-alpha14\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material3:material3:1.0.0-alpha14] C:\Users\Kaya\.gradle\caches\transforms-3\56f44afcdfe2f228d7736e5848f39a9f\transformed\jetified-material3-1.0.0-alpha14\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material3:material3-window-size-class:1.0.0-alpha14] C:\Users\Kaya\.gradle\caches\transforms-3\792b145a8070d52ccd01d283622078d5\transformed\jetified-material3-window-size-class-1.0.0-alpha14\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material3:material3-window-size-class:1.0.0-alpha14] C:\Users\Kaya\.gradle\caches\transforms-3\792b145a8070d52ccd01d283622078d5\transformed\jetified-material3-window-size-class-1.0.0-alpha14\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\3f0db0869c2f3bcf465bf4b80ac84623\transformed\jetified-activity-compose-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\3f0db0869c2f3bcf465bf4b80ac84623\transformed\jetified-activity-compose-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\9cdbdc0d5f05d9008931cd3d0079e72a\transformed\jetified-lifecycle-viewmodel-compose-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\9cdbdc0d5f05d9008931cd3d0079e72a\transformed\jetified-lifecycle-viewmodel-compose-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\eea41e3c01527c5e61777842e99e33ab\transformed\jetified-material-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\eea41e3c01527c5e61777842e99e33ab\transformed\jetified-material-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d98190070bf35dc14f1f71a9b9ac5cd2\transformed\jetified-material-ripple-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d98190070bf35dc14f1f71a9b9ac5cd2\transformed\jetified-material-ripple-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\9bd704ab2575536667a3c027880be872\transformed\jetified-foundation-1.2.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\9bd704ab2575536667a3c027880be872\transformed\jetified-foundation-1.2.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\8dd8bdfe09b3e3192d8c9ac6fc363091\transformed\jetified-animation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\8dd8bdfe09b3e3192d8c9ac6fc363091\transformed\jetified-animation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\474f28b4459d131e32b9a244e7ef2f69\transformed\jetified-ui-tooling-data-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\474f28b4459d131e32b9a244e7ef2f69\transformed\jetified-ui-tooling-data-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\3c3ecd19c507b63a814bf9444076d826\transformed\jetified-foundation-layout-1.2.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\3c3ecd19c507b63a814bf9444076d826\transformed\jetified-foundation-layout-1.2.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\fedd73f5bc7da46e885737d5e3ff79a7\transformed\jetified-animation-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\fedd73f5bc7da46e885737d5e3ff79a7\transformed\jetified-animation-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.2] C:\Users\Kaya\.gradle\caches\transforms-3\a9b0d29503e3ce79d095cef722150d85\transformed\jetified-material-icons-core-1.0.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.2] C:\Users\Kaya\.gradle\caches\transforms-3\a9b0d29503e3ce79d095cef722150d85\transformed\jetified-material-icons-core-1.0.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\7240c5f142d201f8ad290379fabe11e8\transformed\jetified-ui-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\7240c5f142d201f8ad290379fabe11e8\transformed\jetified-ui-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\94b4789ada000076e835bff0f86adc77\transformed\navigation-runtime-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\94b4789ada000076e835bff0f86adc77\transformed\navigation-runtime-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\69834dc9baba87039de48a383944c70f\transformed\navigation-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\69834dc9baba87039de48a383944c70f\transformed\navigation-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\74771d3f0aba66dd979eaacb3c921c04\transformed\jetified-activity-ktx-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\74771d3f0aba66dd979eaacb3c921c04\transformed\jetified-activity-ktx-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\2e4f2367c317c4dd90cd3e4078197cb6\transformed\navigation-common-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\2e4f2367c317c4dd90cd3e4078197cb6\transformed\navigation-common-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\79624f8e642b1e226f4fa97854908be4\transformed\navigation-common-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\79624f8e642b1e226f4fa97854908be4\transformed\navigation-common-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\3e8eab1a5121275e5e2586c60e0b9f85\transformed\jetified-lifecycle-runtime-ktx-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\3e8eab1a5121275e5e2586c60e0b9f85\transformed\jetified-lifecycle-runtime-ktx-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\1c5dff662efc6e9979a74308ae5523dc\transformed\jetified-ui-tooling-preview-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\1c5dff662efc6e9979a74308ae5523dc\transformed\jetified-ui-tooling-preview-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\08cb83427369b524c0e4f42218ba7446\transformed\jetified-ui-text-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\08cb83427369b524c0e4f42218ba7446\transformed\jetified-ui-text-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\7446fbe35ad6111aac7e051443b99b22\transformed\jetified-runtime-saveable-1.2.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\7446fbe35ad6111aac7e051443b99b22\transformed\jetified-runtime-saveable-1.2.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\2e49c104d2f3bec6e8db63b2592d2795\transformed\jetified-ui-graphics-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\2e49c104d2f3bec6e8db63b2592d2795\transformed\jetified-ui-graphics-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\aa5490bb54c3bb759e29434f2c9058fc\transformed\jetified-ui-unit-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\aa5490bb54c3bb759e29434f2c9058fc\transformed\jetified-ui-unit-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\60ce9a9a6677a1b4a7f7cd2219aa5762\transformed\jetified-ui-geometry-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\60ce9a9a6677a1b4a7f7cd2219aa5762\transformed\jetified-ui-geometry-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\61558e4fe1210c6292bf3f4bae0cdb99\transformed\jetified-runtime-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\61558e4fe1210c6292bf3f4bae0cdb99\transformed\jetified-runtime-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\a4a1a23f6457c7232211d5275827a777\transformed\jetified-lifecycle-viewmodel-ktx-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\a4a1a23f6457c7232211d5275827a777\transformed\jetified-lifecycle-viewmodel-ktx-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kaya\.gradle\caches\transforms-3\7aad6e37c42343dad604d683392d2cb6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kaya\.gradle\caches\transforms-3\7aad6e37c42343dad604d683392d2cb6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Kaya\.gradle\caches\transforms-3\b6836f976a9af38fcee31654309ddd6a\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Kaya\.gradle\caches\transforms-3\b6836f976a9af38fcee31654309ddd6a\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d1c2e2e8d076726ca6d7b4756cb03e4a\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d1c2e2e8d076726ca6d7b4756cb03e4a\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\c45e5bef8bae8baeb65cc6065288e777\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\c45e5bef8bae8baeb65cc6065288e777\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kaya\.gradle\caches\transforms-3\426a8b46570e23cd94480b7253f1f9a4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kaya\.gradle\caches\transforms-3\426a8b46570e23cd94480b7253f1f9a4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\dc19cada02e1460aac2b83505919040b\transformed\jetified-activity-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\dc19cada02e1460aac2b83505919040b\transformed\jetified-activity-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\23e616f61efdbe830e06503c3bccefb2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\23e616f61efdbe830e06503c3bccefb2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\91eb7f9c16075393c6d9193b23bf5536\transformed\lifecycle-viewmodel-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\91eb7f9c16075393c6d9193b23bf5536\transformed\lifecycle-viewmodel-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\b4efd07a1f3ac79780859e9924039eb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\b4efd07a1f3ac79780859e9924039eb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-splashscreen:1.0.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\4ae46abfe8046e02ccce61f4c0b50714\transformed\jetified-core-splashscreen-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\4ae46abfe8046e02ccce61f4c0b50714\transformed\jetified-core-splashscreen-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:maps-compose:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\ab9b1d679b06e6b26abc0ef856b57667\transformed\jetified-maps-compose-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:maps-compose:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\ab9b1d679b06e6b26abc0ef856b57667\transformed\jetified-maps-compose-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\Kaya\.gradle\caches\transforms-3\17e889b4da11a436a04d5a1e5ff69a8d\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\Kaya\.gradle\caches\transforms-3\17e889b4da11a436a04d5a1e5ff69a8d\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d52c0c6783e9c7379bf8ddde0bcb86b9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d52c0c6783e9c7379bf8ddde0bcb86b9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Kaya\.gradle\caches\transforms-3\d16ccdd789ecb9340b47c8d22c348e71\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Kaya\.gradle\caches\transforms-3\d16ccdd789ecb9340b47c8d22c348e71\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\95d003f3d3af628c3142ee549dab69b4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\95d003f3d3af628c3142ee549dab69b4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d365f5572fc80ed09397813efcef9a44\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\d365f5572fc80ed09397813efcef9a44\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\12b737700b819fa61c95705a2ec8e629\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\12b737700b819fa61c95705a2ec8e629\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\367d45fc4e906fae8f32f7352a5aaf2f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\367d45fc4e906fae8f32f7352a5aaf2f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\08c65cc10869d14a6665ac6cb5d958fc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\08c65cc10869d14a6665ac6cb5d958fc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\cc7ba6a95b0e134f4e50dabe358eae30\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\cc7ba6a95b0e134f4e50dabe358eae30\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0241aa321a70b3cdab5d75e3837de20a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0241aa321a70b3cdab5d75e3837de20a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\b63b476dcff5f70675a8ce27f467f352\transformed\jetified-customview-poolingcontainer-1.0.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\b63b476dcff5f70675a8ce27f467f352\transformed\jetified-customview-poolingcontainer-1.0.0-rc01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\b394b42c4184c79bae8d55d52ec7e25e\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Kaya\.gradle\caches\transforms-3\b394b42c4184c79bae8d55d52ec7e25e\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Kaya\.gradle\caches\transforms-3\6760e97130cfd72774a77ccbe1fb2d70\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Kaya\.gradle\caches\transforms-3\6760e97130cfd72774a77ccbe1fb2d70\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\12ed52dc3c6f45ac44fc70a66f82c69d\transformed\lifecycle-runtime-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\12ed52dc3c6f45ac44fc70a66f82c69d\transformed\lifecycle-runtime-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\39d4968b192749e612d27ed25d7767f2\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\39d4968b192749e612d27ed25d7767f2\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\6a6826f23095e5b2d7399a0a519be367\transformed\lifecycle-livedata-core-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\6a6826f23095e5b2d7399a0a519be367\transformed\lifecycle-livedata-core-2.6.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\eb4e90f0e353832b9068e7d87748d06e\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\eb4e90f0e353832b9068e7d87748d06e\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\8d39c9d3accd09d52dd263aee43a05da\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Kaya\.gradle\caches\transforms-3\8d39c9d3accd09d52dd263aee43a05da\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\5603a41611ada80d0334acee06832a90\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\5603a41611ada80d0334acee06832a90\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\6dfef6b814ab7fad2d3eb35446decb32\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\6dfef6b814ab7fad2d3eb35446decb32\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\5c683f1133d03ce71d42e70ddca65300\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\5c683f1133d03ce71d42e70ddca65300\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\f610085d82be830424d14315cbeec1b5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\f610085d82be830424d14315cbeec1b5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\73c2fe21688619b7ccbc8efcbf79bec4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\73c2fe21688619b7ccbc8efcbf79bec4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\bd63adc4c4b1c8b63755f47e962be09c\transformed\jetified-ui-util-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\bd63adc4c4b1c8b63755f47e962be09c\transformed\jetified-ui-util-1.3.0-alpha01\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\3630253cca316dd9882d7b7cfa407d02\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\3630253cca316dd9882d7b7cfa407d02\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kaya\Desktop\starter\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\16841ff2caf1319323e7ac7c7c57dc82\transformed\jetified-ui-tooling-1.3.0-alpha01\AndroidManifest.xml:25:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha02] C:\Users\Kaya\.gradle\caches\transforms-3\74e3bece3c70bb21465a34828bcb6e5b\transformed\jetified-window-1.1.0-alpha02\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Kaya\.gradle\caches\transforms-3\05854e3471e73c8ba0913d9a723708e1\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kaya\.gradle\caches\transforms-3\3caf215054b0734a2614064db468f4a9\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\Kaya\.gradle\caches\transforms-3\17e889b4da11a436a04d5a1e5ff69a8d\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:10:9-12:69
+MERGED from [com.google.maps.android:android-maps-utils:2.3.0] C:\Users\Kaya\.gradle\caches\transforms-3\17e889b4da11a436a04d5a1e5ff69a8d\transformed\jetified-android-maps-utils-2.3.0\AndroidManifest.xml:10:9-12:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\0edc22c158c544bc55612731ab06c360\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0-alpha01] C:\Users\Kaya\.gradle\caches\transforms-3\77da29d8f3e657ee5c1116f0b4d6dacb\transformed\jetified-ui-test-manifest-1.3.0-alpha01\AndroidManifest.xml:25:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\6dfef6b814ab7fad2d3eb35446decb32\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kaya\.gradle\caches\transforms-3\6dfef6b814ab7fad2d3eb35446decb32\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Kaya\.gradle\caches\transforms-3\556f823033203269bd09383f4225b1f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-rc01] C:\Users\Kaya\.gradle\caches\transforms-3\72eeea69b595bd041af60a1a289dbb67\transformed\jetified-profileinstaller-1.2.0-rc01\AndroidManifest.xml:45:25-82
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Kaya\.gradle\caches\transforms-3\6aafa94d59fefccb0e95923739b0560a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
